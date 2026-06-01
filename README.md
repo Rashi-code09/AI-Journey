@@ -1,2 +1,15 @@
-# AI-Journey
-My journey of learning AI from scratch 📈
+AI Journey 🚀
+
+Hi, I'm Rashi.
+
+I'm 16 years old and learning AI from scratch.
+
+My goals:
+- Learn prompt engineering
+- Learn GitHub
+- Build AI projects
+- Create AI content
+- Prepare for an AI career
+
+Started: June 2026# AI-Journey
+My journey of learning AI from scratch
