@@ -20,4 +20,5 @@ My journey of learning AI from scratch
 * Built a program that asks name and city
   Built a greeting program
 - Built a simple age input program
-- 
+
+  
