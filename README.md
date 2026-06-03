@@ -13,3 +13,7 @@ My goals:
 
 Started: June 2026# AI-Journey
 My journey of learning AI from scratch
+
+## Day 2
+* Learned Variables
+* Learned Input Function
