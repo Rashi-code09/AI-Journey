@@ -17,3 +17,7 @@ My journey of learning AI from scratch
 ## Day 2
 * Learned Variables
 * Learned Input Function
+* Built a program that asks name and city
+  Built a greeting program
+- Built a simple age input program
+- 
