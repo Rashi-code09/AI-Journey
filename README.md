@@ -21,4 +21,7 @@ My journey of learning AI from scratch
   Built a greeting program
 - Built a simple age input program
 
-  
+  ### Day 3: Data Types & Inputs
+- Learned the difference between Strings, Integers, and Floats.
+- Built an interactive Python script using
+- the `input()` function.
