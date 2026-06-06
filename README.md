@@ -31,3 +31,10 @@ My journey of learning AI from scratch
 - Built addition calculator
 - Built age calculator
 - Built BMI calculator
+- 
+## Day 5: Conditions
+
+- Learned if and else statements
+- Built an age checker
+- Built an even/odd checker
+- Built a pass/fail checker
