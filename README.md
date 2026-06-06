@@ -1,4 +1,4 @@
-AI Journey 🚀
+hAI Journey 🚀
 
 Hi, I'm Rashi.
 
@@ -25,3 +25,9 @@ My journey of learning AI from scratch
 - Learned the difference between Strings, Integers, and Floats.
 - Built an interactive Python script using
 - the `input()` function.
+## Day 4: Operators
+
+- Learned +, -, *, /
+- Built addition calculator
+- Built age calculator
+- Built BMI calculator
